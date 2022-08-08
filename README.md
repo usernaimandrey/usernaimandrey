@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrey
+## 👋 Hi, I’m Andrey
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Ruby and Ruby on rails
 
