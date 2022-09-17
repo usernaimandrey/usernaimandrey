@@ -2,6 +2,9 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Ruby and Ruby on rails
 
+Contacts:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](vhttps://www.linkedin.com/in/andrey-shlyapnikov-6a1040220/)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+Ruby+and+Rails+on+Hexlet)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71A45&width=435&lines=computer+science+student)](https://git.io/typing-svg)
