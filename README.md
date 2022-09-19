@@ -6,7 +6,7 @@
 
 [Telegram](https://t.me/AndreyShlyap)
 
-[Gmail](anshlyapnikov@gmail.com)
+Email: anshlyapnikov@gmail.com
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+Ruby+and+Rails+on+Hexlet)](https://git.io/typing-svg)
 
